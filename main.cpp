@@ -1,14 +1,14 @@
-#include "main.hpp"
-#include "adaptor.hpp"
 #include <unordered_map>
 #include <utility>
 #include <iostream>
 #include <fstream>
-#include "util.h"
-#include "datatypes.hpp"
 #include <iomanip>
+#include "util.h"
 #include "RrConfig.h"
 #include "SIM.hpp"
+#include "main.hpp"
+#include "adaptor.hpp"
+#include "datatypes.hpp"
 
 using namespace std;
 
