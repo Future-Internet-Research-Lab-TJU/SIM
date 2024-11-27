@@ -17,7 +17,7 @@ _Computer Networks 248 (2024) 110502_
 - datatypes.hpp: define data types
 - RrConfig.cpp, RrConfig.h: read and parse configuration files
 - util.h: define some universal functions
-- readme: the format of the configuration file in main.cpp
+- config_DBLP_twitter.ini: the format of the configuration file in main.cpp
 ---
 
 ### Compile and Run the examples
